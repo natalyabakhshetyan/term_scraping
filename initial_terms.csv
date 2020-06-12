@@ -1,0 +1,195 @@
+data augmentation
+convex function
+cosine similarity
+concave
+cost function
+cross entropy
+Feature Engineering
+Feature Reduction
+overfitting
+reinforcement learning
+recommender systems
+underfitting
+semi-supervised learning
+unsupervised learning
+backpropagation
+supervised learning
+feedforward
+longitutal data
+correlation
+panel data
+random/randomness/randomization
+causation
+cross-sectional data
+training
+continous variable
+omitted variable bias
+error term
+standard deviation
+variance
+local maximum
+local minimum
+Root Mean Square error
+Standard Error
+Residual
+Type 1 Error
+Type II error
+confidence interval/level
+Decile
+bagging
+optimization
+accuracy
+binary
+autoregression
+PCA (Principal Component Analysis)
+machine learning
+Deep Learning
+Exploratory Data Analysis
+cross validation
+Validation Set
+training set 
+Dimension Reduction
+recall
+Evaluation Metrics
+AUC
+precision
+Decision Boundary
+imbalanced data
+natural language processing
+normalization
+hyperparameter
+response variable
+model
+regression
+label/class
+population
+observation
+sample
+control group
+treatment group
+boosting
+bootstrapping
+classification threshold
+binomial distribution
+categorical variable
+Game Theory
+AB Testing
+data type
+string
+iteration
+database
+graph database
+relational database
+Index
+Key
+ETL - Extract Transform and Load
+parallel programming
+Hadoop
+Hive
+spark
+Holdout Sample
+Holt-Winter Forecasting
+sigmoid
+tanh
+Market Basket Analysis
+Monte Carlo
+Normal Distribution
+oozie
+genetic algorithmn
+GPU
+integer
+table
+Jupyter notebook
+algorithm
+avro
+agile
+network analysis
+node
+confidence (basket analysis)
+lift (basket analysis)
+bi-gram
+tri-gram
+experimental group
+Classification
+test
+validation
+loss function
+convergence
+gradient descent
+DBScan
+Decision Tree
+Log-Loss
+Factor Analysis
+False Negative
+False Positive
+Feature Hashing
+Feature Selection
+Jackknife Regression
+Hierarchical Clustering
+Imputation
+Clustering
+regularization
+lasso regression
+ridge regression
+log-loss
+Multi-Class classification
+One hot encoding
+one shot learning
+learning rate
+oversampling
+undersampling
+grid search
+overfitting
+Generative Adversarial Network
+Degrees of Freedom
+Goodness of Fit
+Hidden Markov Model
+Gaussian Mixture Model
+Maximum Likelihood estimate
+panel regression
+variance
+covariance
+bias (add with skewness)
+T test
+z test
+F-Score
+kurtosis
+SMOTE
+homogeneous
+heterogenous
+Q-learning
+p-value
+Skewness
+Hypothesis
+heteroskedasticity
+homoskedasticity
+confusion matrix
+swarmplot
+IQR
+gamma
+endogeneity
+Structured equation modeling
+compositional data
+instrumental variable
+difference in difference
+bar chart
+dashboard
+ROC
+Histogram
+line chart
+scatter plot
+neural network
+convolutional
+weakly supervised
+pooling layer
+adam optimization
+Gated Recurrent Unit
+LSTM
+Dropout
+box plot
+time series
+dataset
+dataframe
+while loop
+for loop
+Dummy Variable
