@@ -1,0 +1,424 @@
+terms
+A/B Testing
+Activation Function
+Artificial Intelligence
+AutoEncoders
+Bayes’ Theorem
+Bias
+Big Data
+Control Set
+Cross-validation
+Data Mining
+Data Science
+Data Wrangling
+Deep Learning (DL)
+Dependent Variable
+Dimensionality Reduction
+Feature
+Graphics Processing Unit (GPU)
+Independent Variable
+dependent variable
+ for example.
+Label
+Latent Variable
+this link
+ for good examples of latent variable.
+Linear Regression
+Logistic Regression
+Machine Learning (ML)
+Model Fitting
+Model Selection
+Model Tuning
+Natural Language Processing (NLP)
+Outlier
+Percentiles
+Perceptron
+Predictive Analysis
+Random Forest
+Rectified Linear Unit (ReLU)
+Recurrent Neural Network (RNN)
+R-Squared
+Sigmoid Function
+ Softmax
+Support Vector Machine (SVM)
+Testing Set
+Training Set
+Weight
+By 
+Wolf Howard
+", Dataquest"
+Algorithms
+Back End
+Data Warehouse
+Front End
+Fuzzy Algorithms
+Fuzzy Logic
+Greedy Algorithms
+Statistic vs. Statistics
+Training and Testing
+Artificial Intelligence (AI)
+Business Intelligence (BI)
+Data Analysis
+Data Engineering
+Data Journalism
+Data Visualization
+Quantitiative Analysis:
+"Mean (Average, Expected Value)"
+Median
+Normalize
+Statistical Significance
+Summary Statistics
+Residual (Error)
+Data Exploration
+Data Pipelines
+Data Wrangling (Munging)
+"ETL (Extract, Transform, Load)"
+Web Scraping
+Decision Trees
+Neural Networks
+Supervised Machine Learning
+Unsupervised Machine Learning
+Bio: 
+Related:
+Ridge Regression Regression
+Elastic Net
+Random Forests
+Lightgbm
+XgBoost
+Cat Boost
+Gradient Boosting
+DeepLearning
+Convolutional Neural Networks / CNN
+Recurrent Neural Networks / RNN
+LSTMs
+GRUs
+MxNet
+ResNet
+CapsuleNets
+Unet
+VGGs
+Xception
+Inception Nets
+Computer Vision
+Transfer Learning
+Object Detection
+RCNN
+MobileNet
+K Means Clustering
+Hierarchial Clustering
+DB Scan
+K Naive Bayes
+SVMs
+KNN
+Recommendation Engine
+"EDA, Exploration"
+Outlier Treatment
+Anomaly Detection
+Pipeline
+Missing Values
+Dataset Decomposition
+PCA
+Tsne
+SVD
+Ensembling
+Stacking
+Blending
+NLP
+Topic Modelling
+Word Embeddings
+Spacy
+NLTK
+TextBlob
+Scikit Learn
+TensorFlow
+Theano
+Kears
+PyTorch
+Vopal Wabbit
+ELI5
+HyperOpt
+Pandas
+Sql
+BigQuery
+H2o
+Fast.AI
+Visualizations
+Plotly
+Seaborn
+D3.Js
+Bokeh
+Highchart
+Folium
+ggPlot
+Time Series Analysis
+ARIMA
+Forecasting
+Best Tutorials on Kaggle
+Data Leak
+Adversarial Validation
+Generative Adversarial Networks
+The Fundamentals of Data Science
+Bayes Theorem
+Data Structure
+Exploratory Data Analysis (EDA)
+JavaScript
+Linear Algebra
+MATLAB
+Multivariate Analysis
+Quartile
+TO BE CONTINUED…
+Supervised Machine Learning
+Unsupervised Machine Learning
+Training and Testing
+Quantitative Analysis:
+"Mean (Average, Expected Value)"
+coefficient
+cross-validation
+Dependent variable and Independent Variable
+predictive analytics
+Artificial Intelligence in Hindi
+Case Study: ML Applications at Amazon.in
+Activation function
+Blockchain
+Convolutional Neural Network (CNN)
+Data Storytelling
+[Related article
+DevOps/DataOps/MLOps/AIOps
+Docker containers
+Explainable AI
+GPU acceleration
+H2O.ai
+Jupyter Notebooks
+Long Short Term Memory (LSTM)
+MXNet
+Tidyverse
+AngularJS
+artificial intelligence
+Bayes' Theorem
+Bayesian network
+bias
+chi-square test
+computational linguistics
+confidence interval
+continuous variable
+D3
+data engineer
+data mining
+data science
+data structure
+data wrangling
+decision trees
+discrete variable
+econometrics
+feature
+GATE
+gradient boosting
+independent variable
+k-means clustering
+k-nearest neighbors
+latent variable
+lift
+linear algebra
+linear regression
+logarithm
+logistic regression
+machine learning model
+Markov Chain
+matrix
+mean
+Mean Absolute Error
+Mean Squared Error
+median
+mode
+Monte Carlo method
+moving average
+n-gram
+naive Bayes classifier
+NoSQL
+null hypothesis
+objective function
+outlier
+P value
+PageRank
+perceptron
+Perl
+pivot table
+Poisson distribution
+posterior distribution
+predictive modeling
+principal component analysis
+prior distribution
+probability distribution
+Python
+"quantile, quartile"
+R
+random forest
+Root Mean Squared Error
+Ruby
+S curve
+SAS
+scalar
+scripting
+serial correlation
+shell
+spatiotemporal data
+SPSS
+SQL
+standard normal distribution
+standardized score
+Stata
+"strata, stratified sampling"
+support vector machine
+t-distribution
+Tableau
+time series data
+UIMA
+vector
+vector space
+Weka
+Adjusted R^2
+Santiago Perez
+)
+Bayesian Networks
+Boosted Models
+Cluster Analysis
+Markus Schmidberger
+Michael Malak
+Design of Experiments
+EM Algorithm
+Ensemble Methods
+Vincent Granville
+General Linear Model
+: 
+Hidden Decision Trees
+Hierarchical Bayesian Models
+K-Means
+Kernel Density estimator
+Linear Discrimination
+Mahout:
+MapReduce
+Maximum Likelihood
+MCMC
+Mixture Models
+Monte-Carlo Simulations
+ 
+Renato Vitolo
+No SQL
+Multidimensional Scaling
+Naive Bayes
+Non-parametric Statistics
+Pig
+Principal Component Analysis
+Sensitivity Analysis'
+Six Sigma
+Stepwise Regression
+disproportionately 
+Supervised Clustering
+Support Vector Machines
+Data science apprenticeship
+Data science book
+Data science tools
+Data science history
+Models
+Hyperparameters
+Training Set/Training Data
+Validation Set/Validation Data
+Testing Set/Testing Data
+Model Deployment
+Feature Space
+Ensemble Modeling
+GitHub
+Docker
+NumPy
+pandas
+Scikit-Learn/sklearn
+Keras
+Metrics for Binary Classification
+Metrics for Multi-class Classification
+Metrics for Regression
+Towards Data Science
+Mandy Gu
+More From Medium
+Why Is Data Science Losing Its Charm?
+How to Build a Data Science Web App in Python
+10 Smooth Python Tricks For Python Gods
+Why is Linear Algebra Taught So Badly?
+Data science
+Data scientist
+Data analyst
+Business analyst
+Data engineer
+Data governance
+Data set
+Data mining
+Data visualization
+Data modeling
+Data wrangling
+Big data
+Artificial intelligence
+Machine learning engineer 
+API
+Excel
+Unstructured data
+You might also be interested in...
+Apache Spark
+Backpropogation
+Bias-Variance Trade-off
+Bias error
+here
+Concordant Pair
+concordant pair
+Discordant Pair
+Dplyr
+Flume
+Frequentist Statistics 
+Gated Recurrent Unit (GRU)
+update gate z
+a reset gate r
+Ggplot2
+Go
+Julia
+Log Loss
+Map:
+Shuffle:
+Reduce:
+Monte Carlo Simluation
+Nominal Variable
+Parameters
+Pattern Recognition
+Pie Chart
+Root Mean Squared Error (RMSE)
+Rotational Invariance
+Standardization
+Tokenization
+Torch
+True Negative
+True Positive
+Z-test
+Zookeeper
+Warning
+95
+102
+AI Chatbots
+AutoML
+BERT
+Cognitive computing
+Data pipeline
+"Data lake, data warehouse"
+Edge analytics
+GANs
+Geospatial analytics
+Low-code/No-code
+Anonymization
+Behavioural analytics
+Citizen Data Scientist
+Clickstream analytics
+Data Governance
+Data Set
+Data Scientist
+Democratization of Data Science
+Dimension
+In-Memory Database
+Metadata
+Predictive Modelling
+Quantile
