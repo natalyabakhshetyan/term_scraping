@@ -1,0 +1,536 @@
+A/B testing
+model performance
+accuracy
+Application programming interface
+argument packing
+argument unpacking
+artificial neural networks
+backpropogation
+bagging
+bar chart
+Bayes's Theorem
+Bayesian Inference
+Bernoulli trial
+Beta distribution
+Betweenness centrality
+bias
+bigram model
+binary relationship
+binomial random variable
+boolean
+bootstrap aggregating
+bootstrapping
+bottom-up hierarchical clustering
+causation
+correlation
+cumulative distribution function
+central limit theorem
+mean
+median
+mode
+quantile
+central tendencies
+centrality
+betweenness
+closeness
+eigenvector
+classification tree
+closeness centrality
+clustering
+k-means clustering
+coefficient of determination
+combiner
+comma-separated values file
+command line
+conditional probability
+random variable
+confidence interval
+confounding variable
+confusion matrix
+continuity correction
+continuous distribution
+control flow
+correctness
+simple linear regression
+outlier
+Simpson's Paradox
+correlation function
+cosine similarity
+covariance
+currying
+curse of dimensionality
+data cleaning
+data munging
+data exploration
+reading files
+data manipulation
+rescaling data
+data mining
+data science
+library
+data visualization
+line chart
+scatterplot
+database
+query
+query optimization
+subquery
+SQL statement
+decision tree
+entropy
+entropy of partition
+random forest
+degree centrality
+delimited file
+dependance
+derivative
+dictionary
+defaultdict
+dimensionality reduction
+principal component analysis
+dimensionality
+discrete distribution
+dispersion
+range
+standard deviation
+variance
+distance function
+Bernoulli distribution
+binomial distribution
+normal distribution
+dot product
+dummy variable
+edge
+eigenvector centrality
+ensemble learning
+multiple linear regression
+standard error
+regression coefficient
+Euclidean distance function
+experience optimization
+F1 score
+false positive
+farness
+feature extraction
+feature selection
+feed-forward neural network
+text file
+full outer join
+getting data
+Gibbs sampling
+gradient descent
+stochastic gradient descent
+greedy algorithm
+harmonic mean
+hierarchical clustering
+histogram
+parsing
+hypothesis
+hypothesis testing
+p-hacking
+loop
+set
+independence
+indexes
+statistical inference
+inner join
+interactive visualization
+inverse normal cumulative distribution function
+item-based collaborative filtering
+k-nearest neighbors classification
+kernel method
+key/value
+Lasso regression
+Latent Dirichlet Analysis (LDA)
+input layer
+hidden layer
+output layer
+least squares model
+left join
+likelihood
+trendline
+matrix
+vector
+linear algebra
+linear regression
+goodness of fit
+model interpretation
+regularization
+maximum likelihood estimation
+log likelihood
+logistic regression
+logistic function
+machine learning
+bias-variance trade-off
+data modeling
+overfitting
+underfitting
+magnitude of a vector
+algorithm
+word count
+scatterplot matrix
+member function
+n-gram model
+trigram model
+Naive Bayes algorithm
+natural language processing
+word cloud
+topic modeling
+nearest neighbors classification
+network analysis
+directed graph
+neural network
+perceptron
+neuron
+node
+noise
+p-value
+standard normal distribution
+database normalization
+null hypothesis
+one-sided test
+PageRank algorithm
+parametric model
+probability judgement
+partial derivative
+pipe operator
+posterior distribution
+precision
+recall
+predicate function
+predictive modeling
+probability density function
+regular expression
+object-oriented programming
+quantile
+recommender system
+data curation
+user-based collaborative filtering
+regression
+regression tree
+relational database
+ridge regression
+right join
+scalar
+scale of data
+schema
+sigmoid function
+smooth function
+spam filter
+sparse matrix
+standard deviation
+statistics
+stemming words
+sum of squares
+supervised learning
+supervised model
+support vector machine
+tab-separated values file
+table
+normalization
+tokenization
+data transformation
+uniform distribution
+unsupervised learning
+unsupervised model
+variance reduction
+distance between vectors
+accuracy
+autocorrelation function
+text analysis
+aggregate function
+ordered aggregate
+user-defined aggregate
+Applied Information Economics
+clustering
+alternative hypothesis
+business intelligence
+BI analyst
+data engineer
+database administrator
+deliverable
+operationalizing
+output
+input
+analytic sandbox
+analytical architecture
+Analysis of Variance
+Anscombe's quartet
+Apriori algorithm
+partitioning
+sampling
+Autoregressive integrated moving average
+autoregressive model
+time series
+forecasting
+moving average model
+normality
+Partial autocorrelation function
+seasonal autoregressive integrated moving average
+Vector Auto Regression Moving Average
+Vector Moving Average
+Vector Auto-Regression
+Autoregressive Moving Average
+array
+Association rule learning
+area under the curve
+autoregressive model
+bagging
+bag-of-words
+barplot
+Bayes's Theorem
+Big Data
+boosting
+bootstrap aggregation
+box-and-whisker plot
+business intelligence analyst
+Classification and regression trees
+case folding
+true casing
+categorical variable
+centroid
+data type
+character
+chart
+churn rate
+boosting
+binary decision
+decision stump
+internal node
+irrelevant variable
+numerical attribute
+redundant variable
+naive Bayes classifier
+classification tree
+classifier
+recall
+clickstream
+image processing
+rescaling
+conditional entropy
+conditional probability
+confidence interval
+parameter
+confusion matrix
+contingency table
+continuous variable
+discretization
+text corpus
+information content
+sentiment analysis
+correlated variables
+Cross-industry standard process for data mining
+crowdsourcing
+importing
+cyclic component
+data source
+data aggregator
+exploratory data analysis
+data analytics lifecycle
+business user
+data preparation phase
+data conditioning
+data wrangling
+dataset inventory
+"extract, transform and load"
+sandbox preparation
+discovery phase
+framing
+hypothesis development
+model building phase
+model planning phase
+communicate results phase
+operationalize phase
+model selection
+data buyer
+project manager
+project sponsor
+data cleansing
+data collector
+data creation rate
+data device
+data format
+data mart
+"Extract, Transform, Load, Transform"
+data repository
+data savvy professional
+statistical model
+quasi-structured data
+semi-structured data
+structured data
+unstructured data
+data type
+logical
+numeric
+data user
+Scalable Vector Graphics file
+branch
+node depth
+leaf node
+regression tree
+root node
+short trees
+decision tree split
+demand forecasting
+density plot
+dependant variable
+independent variable
+descriptive statistics
+deviance
+term frequency–inverse document frequency
+document frequency
+inverse document frequency
+linearity assumption
+N-fold cross-validation
+normality assumption
+residual
+log-likelihood test
+pseudo-R-squared
+Receiver operating characteristic
+Student's t-test
+t-test
+Welch's t-test
+Data differencing
+dirty data
+categorization
+deep analytics
+enterprise data warehouse
+effect size
+ensemble method
+error distribution
+residual standard error
+histogram
+dotchart
+hexbinplot
+exporting
+regular expression
+false negative
+false positive
+true negative
+true positive
+Generalized Linear Model function
+Global Innovation Network and Analysis
+"Global Positioning System
+"
+graphical user interface
+Software upgrade versioning 
+column family
+column qualifier
+Hadoop Distributed File System
+Yet Another Resource Negotiator
+hash-based
+two-sided hypothesis
+type I error
+type II error
+Interactive Development Environment
+in-database analytics
+Internet of Things
+downward closure property
+itemset
+frequent itemset
+dynamic counting
+k-itemset
+Laplace smoothing
+lasso regression
+latent Dirichlet allocation
+lemmatization
+Leveraging data
+outcome confidence interval
+parameter confidence interval
+prediction interval on outcome
+p-value
+multinomial
+Magnetic/Agile/Deep
+market basket analysis
+master node
+minimum confidence
+missing data
+Massively parallel processing
+multinomial logistic regression
+multivariate time series analysis
+worker node
+nonparametric test
+normality
+normalization
+null deviance
+numeric data type
+categorical data type
+numerical algorithm
+numerical underflow
+object
+class
+function
+online analytical processing
+subsetting operators
+prediction interval
+parametric test
+parsing
+partitioning
+part-of-speech tagging
+power of a test
+query
+nested
+subquery
+array
+attribute
+data frame
+list
+overview
+random component
+raw data
+raw text
+data collection
+tokenization
+ridge regression
+repository
+data representation
+residual deviance
+Radio-frequency identification
+Anscombe's quartet
+scientific method
+spart parts planning
+spreadmart
+spreadsheet
+grouping
+loop
+union
+stationary time series
+statistical techniques
+difference in means
+Wilcoxon rank-sum test
+stemming
+stop word
+support vector machine
+t-distribution
+document categorization
+in-database
+morphological feature
+information retrieval
+term frequency
+topic modeling
+web scraper
+Zipf's Law
+text mining
+textual data file
+time series analysis
+autoregressive model
+constant variance
+fitted model
+autoregressive moving average with exogenous inputs
+Box-Jenkins methodology
+Generalized Autoregressive Conditionaly Heteroscedastic
+Kalman filtering
+seasonality
+spectral analysis
+trends
+white noise process
+validation
+correlated variables
+dependent variable
+input variable
+independent variable
+redundant variable
+single variable exploratory data analysis
+"Volume, velocity, and variety"
+within sum of squares
+extensible markup language

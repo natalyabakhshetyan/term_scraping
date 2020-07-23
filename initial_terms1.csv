@@ -1,0 +1,545 @@
+AB Testing
+Key
+genetic algorithm
+population
+graph database
+observation
+longitutal data
+parallel programming
+sample
+iteration
+Game Theory
+cross entropy
+correlation
+cosine similarity
+cost function
+ETL - Extract Transform and Load
+Feature Engineering
+Feature Reduction
+relational database
+Normal Distribution
+convex function
+panel data
+random/randomness/randomization
+causation
+control group
+cross-sectional data
+string
+database
+data augmentation
+data type
+Index
+treatment group
+algorithm
+avro
+bi-gram
+agile
+confidence (basket analysis)
+experimental group
+GPU
+Hadoop
+Hive
+Holdout Sample
+Holt-Winter Forecasting
+integer
+Jupyter notebook
+lift (basket analysis)
+Market Basket Analysis
+Monte Carlo
+network analysis
+node
+oozie
+sigmoid
+spark
+table
+tanh
+tri-gram
+one shot learning
+grid search
+natural language processing
+normalization
+Generative Adversarial Network
+overfitting
+Oversampling
+hyperparameter
+PCA (Principal Component Analysis)
+Classification
+test
+underfitting
+cross validation
+boosting
+Deep Learning (DL)
+response variable
+model
+bagging
+semi-supervised learning
+regression
+machine learning
+One hot encoding
+bias (add with skewness)
+training
+learning rate
+Dimension Reduction
+unsupervised learning
+label/class
+backpropagation
+bootstrapping
+Validation Set
+validation
+supervised learning
+Exploratory Data Analysis (EDA)
+optimization
+Clustering
+convergence
+DB Scan
+Decision Tree
+Factor Analysis
+False Negative
+False Positive
+Feature Hashing
+Feature Selection
+gradient descent
+heterogenous
+Hierarchical Clustering
+homogeneous
+Imputation
+Jackknife Regression
+lasso regression
+Log-Loss
+log-loss
+loss function
+Multi-Class classification
+overfitting
+Q-learning
+regularization
+reinforcement learning
+ridge regression
+SMOTE
+recall
+F-Score
+Evaluation Metrics
+classification threshold
+AUC
+precision
+accuracy
+Decision Boundary
+imbalanced data
+variance
+continous variable
+Root Mean Square error
+omitted variable bias
+binary
+covariance
+Residual
+error term
+standard deviation
+Standard Error
+local maximum
+local minimum
+variance
+Type 1 Error
+Type II error
+T test
+z test
+Degrees of Freedom
+Maximum Likelihood estimate
+autoregression
+Gaussian Mixture Model
+binomial distribution
+Skewness
+Hidden Markov Model
+categorical variable
+heteroskedasticity
+Hypothesis
+homoskedasticity
+Goodness of Fit
+kurtosis
+panel regression
+p-value
+confidence interval/level
+Decile
+instrumental variable
+compositional data
+difference in differences
+endogeneity
+gamma
+IQR
+Structured equation modeling
+bar chart
+Histogram
+line chart
+scatter plot
+swarmplot
+dashboard
+ROC
+feedforward
+adam optimization
+confusion matrix
+convolutional
+Dropout
+Gated Recurrent Unit (GRU)
+LSTM
+neural network
+pooling layer
+weakly supervised
+box plot
+Residual (Error)
+Divide and conquer algorithm
+Recursive algorithms
+Fuzzy Algorithms
+EM Algorithm
+Data pipeline
+Greedy Algorithms
+Maximum Likelihood
+concave
+Dynamic programming algorithm
+time series
+posterior distribution
+matrix
+prior distribution
+Standardization
+Data Mining
+Data engineer
+dataset
+dataframe
+Data Engineering
+Data Exploration
+Data analyst
+Data-driven
+Data Wrangling
+Pie Chart
+Artificial Intelligence 
+Big Data
+Metadata
+Unstructured data
+Structured data
+Dependent variable
+Independent Variable
+Dummy Variable
+discrete variable
+coefficient
+predictive analytics
+Behavioural analytics
+Clickstream analytics
+Business analytics
+Business Intelligence 
+Descriptive Analytics
+Edge analytics
+Geospatial analytics
+Prescriptive Analytics
+Adjusted R-squared
+chi-square test
+Quantile
+Quartile
+Activation Function
+Independent and identically distributed (iid)
+Joint Probability Distribution
+Marginal probability distribution
+Multinomial Distribution
+Cluster Analysis
+K Means Clustering
+Random Forest
+Mixture Models
+Ensemble Modeling
+Model Tuning
+Model Deployment
+Model Fitting
+Model Selection
+Data Visualization
+Data Storytelling
+Data Journalism
+Data Management
+Data Governance
+Data Warehouse
+Feature Space
+feature vector
+Weight
+scalar
+pivot table
+computational linguistics
+Named entity recognition (NER)
+Part-of-speech tagging (POS tagging)
+Parsing
+Web Scraping
+Key performance indicator (KPI) 
+Customer Churn Rate (CCR) 
+Customer Lifetime Value (CLV)
+Customer Acquisition Cost
+Comparable store sales
+Repeat Purchase Rate 
+Search Engine Optimization
+Data cleaning/cleansing
+Data Processing
+Digital Analysts
+Insight Analyst
+Diagnostic analytics
+Prescriptive Analytics 
+Time-Series Forecasting
+recommender systems
+Consumption patterns
+Customer satisfaction score
+Gross profit margin
+Net profit margin 
+Working Capital
+Return on investment 
+Retention rate 
+Earnings Per Share (EPS)
+Forecasting
+Nominal Variable
+Hidden Decision Trees
+Back End
+Bias-Variance Trade-off
+Adversarial Validation
+AI Chatbots
+AngularJS
+Anomaly Detection
+Anonymization
+Apache Spark
+API
+ARIMA
+AutoEncoders
+AutoML
+Backpropogation
+Bayes' Theorem
+Bayesian Networks
+BERT
+Bias error
+BigQuery
+Blending
+Blockchain
+Bokeh
+Boosted Models
+By
+Canonicalization
+CapsuleNets
+Cat Boost
+Citizen Data Scientist
+Cognitive computing
+complex event processing
+Computer Science
+Computer Vision
+Concordant Pair
+Control Set
+Convolutional Neural Network (CNN)
+Data Analysis
+"Data lake, data warehouse"
+Data Leak
+Data modeling
+Data Science
+Data Scientist
+Data Structure
+Dataset Decomposition
+Democratization of Data Science
+Design of Experiments
+DevOps/DataOps/MLOps/AIOps
+Dimension
+Discordant Pair
+disproportionately 
+Docker
+Docker containers
+Dplyr
+econometrics
+"EDA, Exploration"
+Elastic Net
+ELI5
+Ensemble Methods
+Ensembling
+Excel
+Explainable AI
+feature
+Feauture ranking and optimization
+Flume
+Folium
+for loop
+Frequentist Statistics 
+Front End
+Fuzzy Logic
+GATE
+General Linear Model
+GPU acceleration
+Gradient Boosting
+Graphics Processing Unit (GPU)
+GRUs
+Hierarchial Clustering
+Hierarchical Bayesian Models
+Highchart
+HyperOpt
+In-Memory Database
+Inception Nets
+JavaScript
+Julia
+K Naive Bayes
+K-Means
+k-nearest neighbors
+Keras
+Kernel Density estimator
+KNN
+Label
+Latent Variable
+Learning Algorithms
+lift
+Lightgbm
+Linear Algebra
+Linear Discrimination
+Linear Regression
+logarithm
+Logistic Regression
+Long Short Term Memory (LSTM)
+Low-code/No-code
+Machine learning engineer
+machine learning model
+Mahout
+MapReduce
+Markov Chain
+MATLAB
+MCMC
+mean
+"Mean (Average, Expected Value)"
+Mean Absolute Error
+Mean Squared Error
+Median
+Metadata
+Metrics for Binary Classification
+Metrics for Multi-class Classification
+Metrics for Regression
+MobileNet
+mode
+Monte Carlo method
+Monte-Carlo Simulations
+moving average
+Multidimensional Scaling
+Multivariate Analysis
+MxNet
+N-gram model
+Naive Bayes
+naive Bayes classifier
+NLTK
+No SQL
+Non-parametric Statistics
+Normalize
+NoSQL
+null hypothesis
+NumPy
+Object Detection
+objective function
+outlier
+Outlier Treatment
+PageRank
+pandas
+Parameters
+Pattern Recognition
+Percentiles
+Perceptron
+Perl
+Pig
+Pipeline
+Plotly
+Poisson distribution
+prediction-based
+Predictive Analysis
+predictive modeling
+probability distribution
+propensity score matching
+Python
+PyTorch
+Quantitiative Analysis
+R
+R-Squared
+RCNN
+Recommendation Engine
+Rectified Linear Unit (ReLU)
+Recurrent Neural Network (RNN)
+ResNet
+Rotational Invariance
+Ruby
+S curve
+SAS
+scalar
+Scikit-Learn/sklearn
+scripting
+Seaborn
+Sensitivity Analysis
+serial correlation
+shell
+Sigmoid Function
+Six Sigma
+Softmax
+Spacy
+spatiotemporal data
+SPSS
+SQL
+Stacking
+standard normal distribution
+standardized score
+Stata
+Statistic vs. Statistics
+Statistical Learning
+Statistical Significance
+Stepwise Regression
+"strata, stratified sampling"
+Summary Statistics
+Supervised Clustering
+Supervised Machine Learning
+Support Vector Machine (SVM)
+SVD
+SVMs
+t-distribution
+Tableau
+TensorFlow
+Testing Set
+Testing Set/Testing Data
+TextBlob
+Theano
+Tidyverse
+Time Series Analysis
+time series data
+Time-Series Feature Extraction
+Tokenization
+Topic Modelling
+Torch
+Towards Data Science
+Training and Testing
+training set 
+Training Set/Training Data
+Transfer Learning
+True Negative
+True Positive
+Tsne
+UIMA
+undersampling
+Unet
+Unsupervised Machine Learning
+Validation Set/Validation Data
+vector
+vector space
+VGGs
+Vopal Wabbit
+Weka
+while loop
+Word Embeddings
+Xception
+XgBoost
+Zookeeper
+Simple Linear Regression
+Multiple Linear Regression
+Residual Analysis
+Max-Min Normalization
+Z-score Normalization
+N-Fold Cross Validation
+Donut diagram 
+Semi-structured data
+Radial Bias Function
+Gini Impurity
+Multilayer Perceptron
+Bag-of-words model
+Neural language model
+term frequency-inverse document frequency (tf-idf)
+latent Dirichlet allocation (LDA)
+machine translation
+speech recognition
+sequence-to-sequence model
+teacher forcing
+encoder
+decoder
+text summary generation
+feature extraction/feature vectorization
